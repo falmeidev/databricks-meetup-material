@@ -30,7 +30,8 @@ CREATE TABLE employees (
 INSERT INTO employees VALUES 
   (1, "José", 2100.0),
   (2, "Maria", 2600.5),
-  (3, "Antonio", 1900.3); 
+  (3, "Antonio", 1900.3),
+  (4, "João", 1900.3); 
 ```
 
 #### Querying the Table

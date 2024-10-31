@@ -15,7 +15,7 @@
 
  <img src="./images/lakehouse.png" alt="Data Lakehouse" width="600"/>
 
-*A good reference for understanding Lakehouse:* https://docs.databricks.com/en/lakehouse/index.html
+*A good reference for understanding Lakehouse:* https://docs.databricks.com/en/lakehouse/index.html / https://www.databricks.com/br/glossary/data-warehouse
 
 ## How is a Lakehouse Divided?
 
